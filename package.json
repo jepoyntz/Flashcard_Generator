@@ -1,0 +1,19 @@
+s{
+  "name": "jerry",
+  "version": "1.0.0",
+  "description": "1st project with constructors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jepoyntz/Flashcard_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jepoyntz/Flashcard_Generator/issues"
+  },
+  "homepage": "https://github.com/jepoyntz/Flashcard_Generator#readme"
+}
